@@ -15,3 +15,5 @@ The full source code is in this repository.
 - Ping to multiple IPs with custom names
 - Live download/upload speed
 - Packet loss and public IP
+<img width="275" height="480" alt="image" src="https://github.com/user-attachments/assets/2e8f23fd-f714-4ebd-bb07-b516ccf6d85c" />
+<img width="489" height="446" alt="image" src="https://github.com/user-attachments/assets/00c7431f-6103-438c-b686-130214c890c7" />
